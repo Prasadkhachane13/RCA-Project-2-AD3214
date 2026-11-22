@@ -38,7 +38,6 @@ jupyter notebook Avalanche_Logistic_Regression.ipynb
 ```
 avalanche-risk-logistic-regression/
 ├── Avalanche_Events.csv
-├── generate_dataset.py
 ├── Avalanche_Logistic_Regression.ipynb
 ├── logistic_regression_model.pkl
 ├── standard_scaler.pkl
